@@ -1,0 +1,12 @@
+[submodule "libs/glad"]
+	path = libs/glad
+	url = git@github.com:abaurens/glad
+[submodule "libs/glfw"]
+	path = libs/glfw
+	url = git@github.com:abaurens/glfw
+[submodule "libs/glm"]
+	path = libs/glm
+	url = git@github.com:abaurens/glm
+[submodule "libs/imgui"]
+	path = libs/imgui
+	url = git@github.com:abaurens/imgui
